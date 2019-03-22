@@ -6,5 +6,3 @@ answer = gets.chomp
     puts "You passed the quiz!"
   end
 end
-
-le
